@@ -1,0 +1,343 @@
+#EXTM3U
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",TOONCAST
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=108&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",DISCOVERY KIDS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=109&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",NICK
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=110&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",DISNEY XD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=111&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",CARTOON NETWORK
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=112&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",DISNEY CHANNEL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=113&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",BOOMERANG
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=115&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",BABY TV 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=116&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",NICK JR
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=117&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",DISNEY JR
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=118&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",NICKTOONS SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1708&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",BABY FIRST
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1984&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",NICK 2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2147&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",NAT GEO KIDS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2373&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",BIT ME
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2591&format=HLSAD&f=.m3u8
+
+
+
+*** CINE ***
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",A3CINE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=3112&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",TBS SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=81&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",DE PELICULA +
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=121&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",GOLDEN +
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=122&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",GOLDEN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=123&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",GOLDEN EDGE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=124&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",TNT
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=126&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",TCM
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=128&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",SPACE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=129&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",AMC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=131&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",STUDIO UNIVERSAL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=132&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",I SAT
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=135&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",EUROPA CHANNEL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=136&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FILMS & ARTS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=137&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FXM 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=138&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FXM SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=332&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FOX SERIES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=139&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",MORBIDO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=140&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FOX MOVIES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=146&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",CINECANAL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=149&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",CINEMAX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=158&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",AMC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=328&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",DE PELICULA SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=335&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FOX ACTION
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=336&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",PARAMOUNT CHANNEL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1726&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FOX CINEMA SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1729&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FOX CLASSICS SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1732&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",AZ CINEMA
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1787&format=HLSAD&f=.m3u8
+
+
+
+*** ENTRETENIMIENTO ***
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",TELEMUNDO INTERNACIONAL HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=85&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FOX 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=46&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",SONY
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=48&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",WARNER
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=52&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",E!
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=55&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",UNIVERSAL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=57&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",SYFY
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=59&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FX
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=60&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",A&E
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=62&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",AXN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=64&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",UNICABLE SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=66&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",SUNDANCE TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=69&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",TNT SERIES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=71&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",GLITZ 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=76&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",GOURMET
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=74&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FOX LIFE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=77&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",DISTRITO COMEDIA SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=78&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",TRUTV 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=79&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",TL NOVELAS SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=83&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",LIFETIME
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=94&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",ANTENA 3
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=199&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FOX HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=201&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",WARNER HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=205&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",UNIVERSAL HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=207&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FX HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=209&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",TRUTV HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=215&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",HOLA TV HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=219&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",COMEDY CENTRAL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=340&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",COMEDY CENTRAL SD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=341&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",UNICABLE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1499&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",MAS CHIC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1842&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",A3SERIES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2113&format=HLSAD&f=.m3u8
+
+*** DEPORTES ***
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",ESPN +
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=167&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",ESPN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=168&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",ESPN 2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=169&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FOX SPORTS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=170&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FOX SPORTS 2
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=172&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",TUDN
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=174&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FOX SPORTS 3
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=178&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",GOLF
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=179&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",AYM SPORTS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=180&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",ESPN 3
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=345&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",TUDN HD (2)
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1049&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",ADRENALINA SPORTS HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1799&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",LAS
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2089&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",HAVOC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2148&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",TVC DEPORTES
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2157&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",CLARO SPORTS HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2564&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FUEL TV HD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2587&format=HLSAD&f=.m3u8
+
+
+*** CULTURALES ***
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",DISCOVERY ID
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2376&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",GARAGE TV
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=75&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",DISCOVERY CHANNEL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=86&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",ANIMAL PLANET
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2378&format=HLSAD&f=.m3u8
+
+#EXTINF:-1, tvg-id="History.mx(m3u4u)" group-title="TOTALPLAY-IZZI-SKY-DISH",HISTORY
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=89&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",NAT GEO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=91&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",NAT GEO WILD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=92&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",DISCOVERY THEATER
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=95&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",H&H
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=96&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",TLC
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=97&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",DISCOVERY SCIENCE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=98&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",DISCOVERY CIVILIZATION
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=99&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",DISCOVERY WORLD
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=101&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",TVE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=198&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",SHOPPING
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=1943&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",FOOD NETWORK
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2145&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",STAR TVE
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=2375&format=HLSAD&f=.m3u8
+
+#EXTINF:-1  group-title="TOTALPLAY-IZZI-SKY-DISH",DISCOVERY TURBO
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdapti
